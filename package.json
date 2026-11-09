@@ -1,0 +1,14 @@
+{
+  "name": "assitante",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Assitante — passerelle IA OmniRoute (endpoint unique compatible OpenAI)",
+  "scripts": {
+    "start": "omniroute",
+    "omniroute": "omniroute"
+  },
+  "dependencies": {
+    "omniroute": "^3.8.53"
+  },
+  "engines": { "node": ">=20" }
+}
